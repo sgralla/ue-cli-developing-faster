@@ -7,6 +7,7 @@ Download LTS for Operating System
 Install nodejs
 
 # Version checking
+
 ` vue --version `
 
 ` npm --version `
@@ -14,6 +15,7 @@ Install nodejs
 ` node --version `
 
 # Install
+
 ` npm install -g @vue/cli `
 
 # Vue-Cli Commands
@@ -24,6 +26,8 @@ Install nodejs
 
 ` vue --help ` Show vue help
 
+` vue create --help ` show help on vue create
+
 ` npm run lint ` lint the current app
 
 ` npm run build ` build the app
@@ -31,7 +35,6 @@ Install nodejs
 ` npn run serve ` serve the app
 
 ***
-
 
 # Vue Cli UI
  
